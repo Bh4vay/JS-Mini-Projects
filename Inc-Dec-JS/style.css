@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+.page1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #f2f2f2; /* Light gray background */
+}
+
+.page1 .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 50vh; /* Increased height for better visibility */
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+}
+
+.page1 .content h1 {
+    font-size: 2.5rem; /* Larger font size */
+    padding: 1rem 0; /* Increased padding */
+    color: #333; /* Darker text color */
+}
+
+.page1 .content .main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center; /* Center items vertically */
+    width: 100%;
+    margin-top: 2rem; /* Increased top margin */
+}
+
+.page1 .content .main button {
+    font-size: 1.5rem;
+    border: none;
+    outline: none;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    background-color: #007bff; /* Blue button background */
+    color: #fff; /* White text color */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth hover transition */
+    box-shadow: 0 0 20px rgba(0, 0, 255, 0.7); /* Darker glowing effect */
+}
+
+.page1 .content .main button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    box-shadow: 0 0 30px rgba(0, 0, 255, 0.9); /* Increase glow on hover */
+}
+
+.page1 .content .main button i {
+    font-size: 1.8rem;
+}
+
+
+.page1 .content .main p {
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 0;
+    color: #555; /* Slightly darker text color */
+}
