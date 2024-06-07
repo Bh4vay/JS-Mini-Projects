@@ -8,10 +8,8 @@ Welcome to my projects repository! This repository contains several mini project
     - [Live Demo](inc-142adb6l3-bh4vays-projects.vercel.app)
 
 
-...
-
 ## How to Run
 
-Just click on the link above.
+Just click on the 'Live Demo' link above.
 
 
