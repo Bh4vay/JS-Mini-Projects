@@ -5,7 +5,7 @@ Welcome to my projects repository! This repository contains several mini project
 ## Project List
 
 1. **Increment Decrement UI**:
-    - [Live Demo]([inc-dec-delta.vercel.app](https://inc-dec-delta.vercel.app/))
+    - [Live Demo](https://inc-dec-delta.vercel.app/)
 
 
 ## How to Run
