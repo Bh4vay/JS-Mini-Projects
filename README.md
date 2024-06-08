@@ -9,6 +9,9 @@ Welcome to my projects repository! This repository contains several mini project
 
 2. **Tic Tac Toe**:
     - [Live Demo](https://tic-tac-toe-rust-one-15.vercel.app/)
+  
+3. **To Do App**:
+    - [Live Demo](https://to-do-app-seven-iota.vercel.app/)
 
 ## How to Run
 
