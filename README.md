@@ -7,6 +7,8 @@ Welcome to my projects repository! This repository contains several mini project
 1. **Increment Decrement UI**:
     - [Live Demo](https://inc-dec-delta.vercel.app/)
 
+2. **Tic Tac Toe**:
+    - [Live Demo](https://tic-tac-toe-rust-one-15.vercel.app/)
 
 ## How to Run
 
