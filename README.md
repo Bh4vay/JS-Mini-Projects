@@ -4,14 +4,13 @@ Welcome to my projects repository! This repository contains several mini project
 
 ## Project List
 
-1. **Increment Decrement UI**:
-    - [Live Demo](https://inc-dec-delta.vercel.app/)
-
-2. **Tic Tac Toe**:
-    - [Live Demo](https://tic-tac-toe-rust-one-15.vercel.app/)
+1. **Tic Tac Toe**
   
-3. **To Do App**:
-    - [Live Demo](https://to-do-app-seven-iota.vercel.app/)
+2. **To Do App**
+  
+3. **Cursor Animation**
+
+4. **Increment Decrement UI**
 
 ## How to Run
 
