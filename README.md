@@ -12,8 +12,6 @@ Welcome to my projects repository! This repository contains several mini project
 
 4. **Increment Decrement UI**
 
-## How to Run
-
-Just click on the 'Live Demo' link above.
+5. **Share Modal**
 
 
