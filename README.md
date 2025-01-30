@@ -1,6 +1,6 @@
 # JS Mini Projects
 
-Welcome to my projects repository! This repository contains several mini projects covering Javascript.
+Welcome to my mini projects repository! This repository contains several mini projects covering Javascript.
 
 ## Project List
   
